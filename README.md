@@ -34,15 +34,6 @@ And also likes to create websites.
 
 ---
 
-## 📈 GitHub Stats  
-![Fz772's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fz772&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fz772&layout=compact&theme=tokyonight)
 
----
-
-## 🔗 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Zann44123)
-
----
 
 ⭐ *“Keep learning, keep building, and never stop improving.”*  
