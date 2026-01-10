@@ -16,10 +16,8 @@ And also likes to create websites.
 
 ## 🛠️ Tech Stack  
 **Frontend:**  
-![HTML](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white&style=for-the-badge))
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
